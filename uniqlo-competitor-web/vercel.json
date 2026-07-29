@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "app/api/collect/route.ts": {
-      "maxDuration": 60
-    }
-  }
-}
